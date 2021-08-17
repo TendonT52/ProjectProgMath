@@ -4,6 +4,7 @@ public class first {
 		System.out.println("Y.T.D");
 		System.out.println("Y.S.S");
 		System.out.println("R.Y.N");
-		System.err.println("asdfasdfasfas"));
+		System.out.println("asdfasdfasfas"));
+		System.out.println("LLL");
 	}
 }
