@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T10:57:29.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="dRztpS0oUpwVj4zmBBBw" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T10:59:58.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="K4r9avk22r2rIhb7X2WZ" version="15.2.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1146" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1433" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ELeBUSl6ErXuFLeV9-w7-1" value="Block" style="swimlane;startSize=23;fillColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="480" y="170" width="150" height="240" as="geometry">
+          <mxGeometry x="480" y="170" width="150" height="180" as="geometry">
             <mxRectangle x="320" y="290" width="50" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -116,7 +116,7 @@
           <mxGeometry x="15" y="90" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ELeBUSl6ErXuFLeV9-w7-86" value="Learing Node" style="swimlane;startSize=23;fillColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="410" y="580" width="170" height="155" as="geometry">
+          <mxGeometry x="420" y="550" width="170" height="155" as="geometry">
             <mxRectangle x="320" y="290" width="50" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -190,7 +190,7 @@
         <mxCell id="ELeBUSl6ErXuFLeV9-w7-128" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ELeBUSl6ErXuFLeV9-w7-86" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="590" as="sourcePoint" />
-            <mxPoint x="550" y="410" as="targetPoint" />
+            <mxPoint x="550" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wVBiMho6Tkvjo7-6SNhC-3" value="user_curriculum" style="swimlane;startSize=23;fillColor=#F8CECC;" vertex="1" parent="1">
